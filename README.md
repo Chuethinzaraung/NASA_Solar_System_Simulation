@@ -21,12 +21,12 @@ Interactive Solar System simulation created using **Processing (Java)** with rea
 
 ##  Controls
 
-| Control | Function |
-| Mouse Wheel | Zoom in / out |
-| Mouse Drag | Move camera |
-| W A S D | Camera movement |
-| ↑ Arrow | Increase simulation speed |
-| ↓ Arrow | Decrease simulation speed |
+| Control | Function | 
+| Mouse Wheel | Zoom in / out | 
+| Mouse Drag | Move camera | 
+| W A S D | Camera movement | 
+| ↑ Arrow | Increase simulation speed | 
+| ↓ Arrow | Decrease simulation speed | 
 
 ---
 
