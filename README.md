@@ -108,6 +108,7 @@ The objective was to create an interactive and visually appealing Solar System s
 
 ##  Author
 Chue Thinzar Aung
+
 Computer Science Student  
 Rangsit University
 
